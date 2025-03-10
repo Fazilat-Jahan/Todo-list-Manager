@@ -1,0 +1,22 @@
+[
+    {
+        "task": "Ramadan Coding Night",
+        "done": true
+    },
+    {
+        "task": "Sehri",
+        "done": true
+    },
+    {
+        "task": "Sleep",
+        "done": true
+    },
+    {
+        "task": "Iftari",
+        "done": false
+    },
+    {
+        "task": "Repeat",
+        "done": false
+    }
+]
